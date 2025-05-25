@@ -1,0 +1,15 @@
+{
+  "name": "Musicvinceplanning",
+  "short_name": "MusicPlanning",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Planning musical de Vincent",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
